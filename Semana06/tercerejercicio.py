@@ -8,3 +8,6 @@ elif tipo =="targeta de credito":
      aumento = compra *0.03
      compra = compra  + aumento
      print("se aplico aumento:", compra)
+
+else:
+    print("no seleccionaste ninguna de las opciones disponibles")
